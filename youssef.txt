@@ -2,3 +2,4 @@
 => Reserved keywords
 => case sensitivity
 => semicolon
+=> comments
